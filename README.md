@@ -46,6 +46,9 @@ Designed and written by Tony Huang
 ### CLI Application Prompt
 <img src='' alt=''/>
 
+### Sample passed Jest tests
+<imc src='./src/test-pass-sample.jpg' alt='Passed Jest tests'/>
+
 ### Sample output HTML File
 <img src='' alt=''/>
 
