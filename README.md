@@ -47,7 +47,7 @@ Designed and written by Tony Huang
 <img src='' alt=''/>
 
 ### Sample passed Jest tests
-<img src='./src/test-pass-sample.jpg' alt='Passed Jest tests'/>
+<img src='./assets/images/test-pass-sample.jpg' alt='Passed Jest tests'/>
 
 ### Sample output HTML File
 <img src='' alt=''/>
